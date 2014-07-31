@@ -1,0 +1,10 @@
+Enter file contents here
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+
+printf("GET SOME WATER !");
+puts("한한글 텟테슽테스트")
+  return 0;
+}
